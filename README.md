@@ -12,9 +12,9 @@ Hi there 👋! I am Brandon Chew, focusing on developing many software tools for
 ---
 
 ### 📊 GitHub Metrics
-Over the last 3 to 6 years, I have built a diverse portfolio across multiple domains:
+Over the last 2 to 4 years, I have built a diverse portfolio across multiple domains:
 * **Total Experience**: 6 years of active development on GitHub.
-* **Impact**: Contributed to over **76 repositories** and over **2,900 commits**.
+* **Impact**: Contributed to over **20 repositories** and over **50 commits**.
 * **Projects**: Developing a **Conversational Data Analysis Tool** and high-performance systems in **Java** and **C#**.
 
 <p align="center">
@@ -45,6 +45,5 @@ This graph represents my coding activity and growth over the recent years.
 
 ### 👀 Profile Views
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Brandon19-Chew/count.svg" alt="Brandon's Visitor Count" />
+  <img src="https://count.getloli.com/get/@Brandon19-Chew?theme=moebooru" alt="Visitor Count" />
 </p>
-
