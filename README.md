@@ -7,4 +7,4 @@ I will do it when my mind has ideas.
 
 你好！我是 Brandon Chew。我专注于为研究与开发 (R&D) 打造多种软件工具。每当脑海中浮现灵感时，我便会付诸行动。
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon-Chew&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon19-Chew&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
