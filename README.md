@@ -27,7 +27,7 @@ I have explored 24 programming languages** to build versatile R&D solutions:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,go,py,asm,cpp,js,vue,html,css,php,kotlin,wasm,docker,git,linux" />
+    <img src="https://skillicons.dev/icons?i=java,cs,go,py,cpp,vue,js,html,css,php,docker,git,linux,aws,ruby" />
   </a>
 </p>
 
