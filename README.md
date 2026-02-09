@@ -33,7 +33,7 @@ I have explored 17 programming languages** to build versatile R&D solutions:
 
 ---
 
-### Database
+### 💾 Database
 
 I have explored 2 databases to store the data records : 
 
