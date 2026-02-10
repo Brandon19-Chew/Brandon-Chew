@@ -47,7 +47,7 @@ I have explored 2 databases to store the data records :
 
 ### 🖥️ Operating System
 
-I have explored 2 databases to store the data records : 
+I have explored 2 operating system to store the data records : 
 
 <p align="center">
   <a href="https://skillicons.dev">
